@@ -3,6 +3,10 @@
   "displayName": "jithins",
   "description": "jithins mono inspired color theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jithinppp/jithins-color-theme.git"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
