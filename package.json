@@ -1,0 +1,21 @@
+{
+  "name": "jithins",
+  "displayName": "jithins",
+  "description": "jithins mono inspired color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jithins",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jithins-color-theme.json"
+      }
+    ]
+  }
+}
