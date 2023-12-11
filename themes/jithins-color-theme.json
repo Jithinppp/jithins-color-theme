@@ -1,14 +1,9 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "jithins",
-  "displayName": "jithins Dark",
+  "author": "Jithin P",
+  "displayName": "jithins 2099",
   "colorSpaceName": "sRGB",
-  "description": "The vscode theme that combined colors that i liked",
-  "version": "1.0.0",
-  "publisher": "jithinppp",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Jithinppp/jithins-color-theme.git"
-  },
   "semanticHighlighting": true,
   "keywords": ["theme", "dark theme", "jithins", "dark", "dracula", "monokai"],
   "colors": {
