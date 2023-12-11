@@ -1,14 +1,20 @@
 {
-  "name": "jithins",
-  "displayName": "jithins",
-  "description": "jithins mono inspired color theme",
+  "name": "jithins-2099",
+  "displayName": "jithins 2099",
+  "description": "A dark aesthetic Monokai inspired color theme for programmers who likes to code in night with listening lofi music in background",
   "version": "0.0.1",
+  "icon": "images/icon/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jithinppp/jithins-color-theme.git"
   },
+  "publisher": "jithinppp",
   "engines": {
     "vscode": "^1.85.0"
+  },
+  "galleryBanner": {
+    "color": "#222145",
+    "theme": "dark"
   },
   "categories": [
     "Themes"
